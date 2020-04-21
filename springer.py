@@ -1,9 +1,5 @@
 # Initial URL: https://www.springernature.com/gp/researchers/the-source/blog/blogposts-life-in-research/access-textbooks-for-free-during-the-coronavirus-lockdown/17897628
 # You can copy from my Colab: https://colab.research.google.com/drive/1wFxT-LnLQ77t2uGOOOkR9WHa4Pq9yQ53
-# Not tested in local environment
-
-# http://link.springer.com/openurl?genre=book&isbn=978-3-319-53919-5
-# https://link.springer.com/content/pdf/10.1007%2F978-3-319-53919-5.pdf
 
 import requests
 from bs4 import BeautifulSoup
