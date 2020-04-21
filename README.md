@@ -11,5 +11,6 @@ Colab URL inside each file
 ## List of Publishers
 1. Springer https://www.springernature.com/gp/researchers/the-source/blog/blogposts-life-in-research/access-textbooks-for-free-during-the-coronavirus-lockdown/17897628
 2. ANU https://press.anu.edu.au/publications/new-releases
+3. https://about.jstor.org/whats-in-jstor/books/open-access-books-jstor/ (coding on Process)
 
 You can suggest publisher via email: beta.uliansyah@pknstan.ac.id
