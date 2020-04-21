@@ -1,8 +1,11 @@
 # FreeMaterialsDuringCovid19
 ## TL;DR
-Codes to download free materials from some providers/publisher who provide them free during Covid19. 
+Codes to download free materials from some providers/publisher who provide them free during Covid19.
+
 Downloaded materials were stored in https://bit.ly/FreeMaterialsDuringCovid19
+
 Github link: https://github.com/BetaUliansyah/FreeMaterialsDuringCovid19
+
 Colab URL inside each file
 
 ## List of Publishers
