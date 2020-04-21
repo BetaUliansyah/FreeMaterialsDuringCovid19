@@ -16,12 +16,10 @@ for link in data:
     if r.status_code==200:
         bsoup = BeautifulSoup(r.text, 'html.parser')
         book_title = bsoup.findAll('div', attrs={'class': 'page-title'})[0].find('h1').text
-        print(book_title)
-        book_title = re.sub(r'[^a-zA-Z0-9\\-]', "_", book_title)
-        #book_title = re.sub(r"[^A-Za-z0-9_.]*", "_", book_title)
-        print(book_title)
+        #print(book_title)
+        book_title = re.sub(r'[^\sa-zA-Z0-9\\-]', "_", book_title)
+        #print(book_title)
         all_links = bsoup.findAll('a', attrs={'title': 'Download this book in PDF format'})[0]['href']
-        #print("http://link.springer.com" + all_links[0]['href']) # extract only first occurence
         #print("http://link.springer.com" + all_links) # extract only first occurence
         file_url = "http://link.springer.com" + all_links
         r = s.get(file_url, stream = True)
