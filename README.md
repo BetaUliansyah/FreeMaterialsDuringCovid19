@@ -13,6 +13,6 @@ Colab URL inside each file
 2. ANU https://press.anu.edu.au/publications/new-releases
 3. https://about.jstor.org/whats-in-jstor/books/open-access-books-jstor/ (coding on Process)
 4. Elsevier (Sciencedirect) https://www.elsevier.com/connect/coronavirus-initiatives#textbooks Elsevier has shuted open access for books.
-5. 
+5. Cambridge University Press https://www.cambridge.org/gb/academic/covid-19-resources-and-information
 
 You can suggest publisher via email: beta.uliansyah@pknstan.ac.id
