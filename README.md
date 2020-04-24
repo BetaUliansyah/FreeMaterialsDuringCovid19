@@ -12,7 +12,7 @@ Colab URL inside each file
 1. Springer https://www.springernature.com/gp/researchers/the-source/blog/blogposts-life-in-research/access-textbooks-for-free-during-the-coronavirus-lockdown/17897628
 2. ANU https://press.anu.edu.au/publications/new-releases
 3. https://about.jstor.org/whats-in-jstor/books/open-access-books-jstor/ (coding on Process)
-4. https://www.elsevier.com/connect/coronavirus-initiatives#textbooks
+4. Elsevier (Sciencedirect) https://www.elsevier.com/connect/coronavirus-initiatives#textbooks Elsevier has shuted open access for books.
 5. 
 
 You can suggest publisher via email: beta.uliansyah@pknstan.ac.id
